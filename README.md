@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Omale Grace 👋
 
-<!--
-**omalegrace2009-g/omalegrace2009-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+💻 Go Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Web Development and Backend Engineering
+
+## Projects
+
+* ASCII Art Web
+* HTTP Haven
+* HTTP Resurgence
+* Go Reloaded
+
+## Technologies
+
+* Go
+* HTML
+* CSS
+* Git
+* GitHub
+
+## Connect With Me
+
+* GitHub: github.com/omalegrace2009-g
+* Email: [omalegrace2009@gmail.com](mailto:omalegrace2009@gmail.com)
