@@ -1,17 +1,27 @@
 # Hi, I'm Omale Grace 👋
 
-🚀 Aspiring Full-Stack Developer
+🚀 Aspiring Full-Stack Developer passionate about building web applications with Go.
 
-💻 Go Developer
+## About Me
 
-🌱 Currently learning Web Development and Backend Engineering
+* 💻 Currently learning Backend Engineering and Web Development
+* 🌱 Exploring HTTP servers, web applications, and software architecture
+* 🔨 Building projects to strengthen problem-solving and software engineering skills
+* 📍 Nigeria
 
-## Projects
+## Featured Projects
 
-* ASCII Art Web
-* HTTP Haven
-* HTTP Resurgence
-* Go Reloaded
+### ASCII Art Web
+
+A web application built with Go that converts text into ASCII art and allows dynamic switching between banner styles.
+
+### Go Reloaded
+
+A Go-based text processing project focused on string manipulation and algorithmic problem-solving.
+
+### ASCII Art Color
+
+An extension of the ASCII Art project that adds colorized output.
 
 ## Technologies
 
@@ -23,5 +33,6 @@
 
 ## Connect With Me
 
-* GitHub: github.com/omalegrace2009-g
-* Email: [omalegrace2009@gmail.com](mailto:omalegrace2009@gmail.com)
+📧 [omalegrace2009@gmail.com](mailto:omalegrace2009@gmail.com)
+
+GitHub: github.com/omalegrace2009-g
