@@ -1,87 +1,92 @@
 # Hi, I'm Omale Grace 👋
 
-### 🚀 Aspiring Full-Stack Developer | Go Enthusiast
+### 💻 Backend Developer | Go Enthusiast | AI Data Annotator
 
-I'm a software developer passionate about building reliable applications and continuously improving my problem-solving skills. I enjoy working with Go, exploring backend development, and learning how web applications work under the hood.
+I'm a software developer passionate about building reliable backend applications with **Go**. I enjoy solving problems, learning new technologies, and creating software that's simple, efficient, and maintainable. Alongside backend development, I have experience in **AI data annotation and evaluation**, contributing to machine learning projects through platforms like OneForma.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently learning Backend Engineering and Web Development
-* 💻 Building projects with Go and HTTP
-* 🔍 Interested in scalable web applications and software architecture
-* 🛠️ Constantly improving my coding, debugging, and problem-solving skills
+* 🌱 Currently learning Backend Engineering and Full-Stack Development
+* ⚙️ Building web applications and RESTful services with Go
+* 🧠 Exploring software architecture and clean code principles
+* 🤖 Experienced in AI data annotation and model evaluation
+* 🐧 Comfortable working with Git, GitHub, and Linux
 * 🇳🇬 Based in Nigeria
 
 ---
 
 ## 🚀 Featured Projects
 
-### ASCII Art Web
+### 🎨 ASCII Art Web Stylize
 
-A web application built with Go that converts text into ASCII art and supports dynamic banner switching between multiple font styles.
+A responsive Go web application that converts text into ASCII art using multiple banner styles with a modern CSS-powered interface.
 
-### ASCII Art Color
+### 🌈 ASCII Art Color
 
-An enhanced ASCII art generator that adds color support and styling options to terminal output.
+A Go application that generates colorful ASCII art in the terminal using ANSI escape sequences.
 
-### Go Reloaded
+### 🔤 Go Reloaded
 
-A text-processing project that demonstrates string manipulation, parsing, and algorithmic problem-solving in Go.
+A text-processing application that demonstrates string manipulation, parsing, and algorithmic problem-solving in Go.
 
-### HTTP Haven & HTTP Resurgence
+### 🌐 HTTP Haven & HTTP Resurgence
 
-Projects focused on understanding HTTP servers, request handling, routing, and web application fundamentals using Go.
+Projects focused on building HTTP servers, routing requests, template rendering, and understanding web fundamentals with Go.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
 * Go
-* HTML
-* CSS
+* HTML5
+* CSS3
+* JavaScript (Learning)
 
-**Tools**
+### Tools
 
 * Git
 * GitHub
 * Linux
+* VS Code
 
-**Currently Exploring**
+### Currently Learning
 
-* HTTP Servers
-* Web Development
-* Backend Engineering
-* Software Design Principles
+* REST APIs
+* JavaScript
+* Backend Development
+* Database Integration
+* Software Design Patterns
 
 ---
 
-## 📈 What I'm Working On
+## 📈 Current Focus
 
-* Building web applications with Go
-* Strengthening backend development skills
-* Learning best practices for software architecture
-* Expanding my portfolio with real-world projects
+* Building backend applications with Go
+* Developing responsive web applications
+* Strengthening problem-solving and debugging skills
+* Expanding my portfolio with practical projects
+* Learning modern backend development practices
 
 ---
 
 ## 🎯 Goals
 
-* Become a skilled Full-Stack Developer
-* Build and deploy production-ready applications
+* Become a proficient Full-Stack Developer
+* Build scalable and production-ready applications
 * Contribute to open-source projects
-* Continue learning and growing as a software engineer
+* Continuously improve as a software engineer
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/omalegrace2009-g
-* Email: [omalegrace2009@gmail.com](mailto:omalegrace2009@gmail.com)
+* **GitHub:** https://github.com/omalegrace2009-g
+* **Email:** [omalegrace209@gmail.com](mailto:omalegrace209@gmail.com)
 
 ---
 
-> "Every project is an opportunity to learn something new."
+> *"The best way to learn is to build, break, fix, and build again."* 🚀
