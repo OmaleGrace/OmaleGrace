@@ -1,6 +1,6 @@
 # Hi, I'm Omale Grace 👋
 
-### 💻 Backend Developer | Go Enthusiast | AI Data Annotator
+### 💻 Backend Developer
 
 I'm a software developer passionate about building reliable backend applications with **Go**. I enjoy solving problems, learning new technologies, and creating software that's simple, efficient, and maintainable. Alongside backend development, I have experience in **AI data annotation and evaluation**, contributing to machine learning projects through platforms like OneForma.
 
@@ -42,6 +42,7 @@ Projects focused on building HTTP servers, routing requests, template rendering,
 ### Languages
 
 * Go
+* python
 * HTML5
 * CSS3
 * JavaScript (Learning)
