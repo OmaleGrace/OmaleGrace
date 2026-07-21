@@ -86,7 +86,7 @@ Projects focused on building HTTP servers, routing requests, template rendering,
 ## 📫 Connect With Me
 
 * **GitHub:** https://github.com/OmaleGrace
-* **Email:** [omalegrace209@gmail.com](mailto:omalegrace209@gmail.com)
+* **Email:** [omalegrace209@gmail.com](mailto:omalegrace2009@gmail.com)
 
 ---
 
