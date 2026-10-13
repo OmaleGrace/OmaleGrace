@@ -22,8 +22,8 @@ I build reliable backend applications with **Go**, and enjoy turning ideas into 
 ## Featured Projects
 
 ### 🍽️ [Food Ordering Website](https://github.com/OmaleGrace/Order-site)
-A full-stack food ordering platform for a single restaurant, built with **Go** and **PostgreSQL**. Supports menu browsing, user signup/login, and is deployed live with a Dockerized local development environment mirroring production.
-**Stack:** Go · PostgreSQL · Docker · Render
+A multi-vendor food ordering platform where local vendors list their meals and take orders, built with **Go** and **PostgreSQL**. Includes user signup/login, menu browsing, an admin panel for managing vendors, and Paystack payments. Deployed live on Render.
+**Stack:** Go · PostgreSQL · Paystack · Render
 🔗 [Live Demo](https://grace-ordering-site.onrender.com)
 
 ### 🎨 ASCII Art Web Stylize
