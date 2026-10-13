@@ -4,6 +4,8 @@
 
 I build reliable backend applications with **Go**, and enjoy turning ideas into simple, efficient, and maintainable software. Alongside development, I work in **AI data annotation and model evaluation**, contributing to machine learning projects through platforms like OneForma.
 
+🌐 **Portfolio:** [omale-grace-portfolio.onrender.com](https://omale-grace-portfolio.onrender.com)
+
 ---
 
 ## About Me
@@ -87,6 +89,7 @@ REST APIs · JavaScript · Database Design & Integration · Software Design Patt
 
 ## Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-3DDC97?style=flat-square&logo=googlechrome&logoColor=black)](https://omale-grace-portfolio.onrender.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OmaleGrace)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omalegrace2009@gmail.com)
 
