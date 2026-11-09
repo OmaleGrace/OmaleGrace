@@ -24,7 +24,7 @@ I build reliable backend applications with **Go**, and enjoy turning ideas into 
 ### 🍽️ [Food Ordering Website](https://github.com/OmaleGrace/Order-site)
 A multi-vendor food ordering platform where local vendors list their meals and take orders, built with **Go** and **PostgreSQL**. Includes user signup/login, menu browsing, an admin panel for managing vendors, and Paystack payments. Deployed live on Render.
 **Stack:** Go · PostgreSQL · Paystack · Render
-🔗 [Live Demo](https://grace-ordering-site.onrender.com)
+🔗 [Live Demo](https://laikihub.onrender.com)
 
 ### 🎨 ASCII Art Web Stylize
 A responsive Go web application that converts text into ASCII art using multiple banner styles, with a modern CSS-powered interface.
