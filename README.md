@@ -69,30 +69,30 @@ A pair of projects focused on building HTTP servers, routing requests, and templ
 
 **Languages**
 
-![Go]\([https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white](https://img.shields.io/badge/-Go-00ADD8?style=flat-square\&logo=go\&logoColor=white))
+[Go]\([https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white](https://img.shields.io/badge/-Go-00ADD8?style=flat-square\&logo=go\&logoColor=white))
 
-![Python]\([https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white))
+[Python]\([https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white))
 
-![JavaScript]\([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black))
+[JavaScript]\([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black))
 
-![HTML5]\([https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white))
+[HTML5]\([https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white))
 
-![CSS3]\([https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white))\
+[CSS3]\([https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white))\
 
 
 **Databases & Tools**
 
-![PostgreSQL]\([https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white))
+[PostgreSQL]\([https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white))
 
-![SQLite]\([https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white](https://img.shields.io/badge/-SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white))
+[SQLite]\([https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white](https://img.shields.io/badge/-SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white))
 
-![Docker]\([https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white))
+[Docker]\([https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white))
 
-![Git]\([https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white))
+[Git]\([https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white))
 
-![Linux]\([https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black))
+[Linux]\([https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black))
 
-![Render]\([https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white](https://img.shields.io/badge/-Render-46E3B7?style=flat-square\&logo=render\&logoColor=white))\
+[Render]\([https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white](https://img.shields.io/badge/-Render-46E3B7?style=flat-square\&logo=render\&logoColor=white))\
 
 
 **Currently Learning**
