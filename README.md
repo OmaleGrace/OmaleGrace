@@ -21,25 +21,46 @@ I build reliable backend applications with **Go**, and enjoy turning ideas into 
 
 ## Featured Projects
 
-### 🍽️ [Food Ordering Website](https://github.com/OmaleGrace/Order-site)
-A multi-vendor food ordering platform where local vendors list their meals and take orders, built with **Go** and **PostgreSQL**. Includes user signup/login, menu browsing, an admin panel for managing vendors, and Paystack payments. Deployed live on Render.
+### 🤖 ConnectAI Hub
+
+An AI-powered digital platform designed to bring multiple intelligent tools together in one place. It aims to provide AI-powered solutions for studying, career development, business, document processing, website development, customer support, and data-related tasks.
+
+**Stack:** Go · HTML · CSS · JavaScript · PostgreSQL · OpenAI API
+
+🔗 [GitHub Repository](https://github.com/OmaleGrace/ConnectAI-Hub)
+🌐 [Live Demo](https://connectai-hub.onrender.com)
+
+### 🍽️ LaikiHub – Food Ordering Marketplace
+
+A multi-vendor food ordering platform where local vendors can list their meals and receive orders. Built with Go and PostgreSQL, it includes user authentication, menu browsing, vendor management, an admin panel, and Paystack payment integration.
+
 **Stack:** Go · PostgreSQL · Paystack · Render
-🔗 [Live Demo](https://laikihub.onrender.com)
+
+🔗 [GitHub Repository](https://github.com/OmaleGrace/Order-site)
+🌐 [Live Demo](https://laikihub.onrender.com)
 
 ### 🎨 ASCII Art Web Stylize
+
 A responsive Go web application that converts text into ASCII art using multiple banner styles, with a modern CSS-powered interface.
+
 **Stack:** Go · HTML · CSS
 
 ### 🌈 ASCII Art Color
+
 A Go application that generates colorful ASCII art in the terminal using ANSI escape sequences.
+
 **Stack:** Go
 
 ### 🔤 Go Reloaded
+
 A text-processing application demonstrating string manipulation, parsing, and algorithmic problem-solving in Go.
+
 **Stack:** Go
 
 ### 🌐 HTTP Haven & HTTP Resurgence
+
 A pair of projects focused on building HTTP servers, routing requests, and template rendering to build a strong foundation in web fundamentals with Go.
+
 **Stack:** Go
 
 ---
@@ -48,31 +69,43 @@ A pair of projects focused on building HTTP servers, routing requests, and templ
 
 **Languages**
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Go]\([https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white](https://img.shields.io/badge/-Go-00ADD8?style=flat-square\&logo=go\&logoColor=white))
+
+![Python]\([https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white))
+
+![JavaScript]\([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black))
+
+![HTML5]\([https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white))
+
+![CSS3]\([https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white))\
+
 
 **Databases & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![PostgreSQL]\([https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white))
+
+![SQLite]\([https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white](https://img.shields.io/badge/-SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white))
+
+![Docker]\([https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white))
+
+![Git]\([https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white))
+
+![Linux]\([https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black))
+
+![Render]\([https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white](https://img.shields.io/badge/-Render-46E3B7?style=flat-square\&logo=render\&logoColor=white))\
+
 
 **Currently Learning**
 
-REST APIs · JavaScript · Database Design & Integration · Software Design Patterns
+REST APIs · JavaScript · Database Design & Integration · Software Design Patterns · AI Integration
 
 ---
 
 ## Current Focus
 
 - Building production-ready backend applications with Go
-- Deploying full-stack apps with real databases (local + cloud parity)
+- Developing AI-powered applications and integrating AI APIs
+- Deploying full-stack applications with real databases
 - Strengthening debugging and systems-level problem-solving skills
 - Expanding my portfolio with practical, deployed projects
 
@@ -82,6 +115,7 @@ REST APIs · JavaScript · Database Design & Integration · Software Design Patt
 
 - Become a proficient Full-Stack Developer
 - Build scalable, production-ready applications
+- Develop useful AI-powered software solutions
 - Contribute to open-source projects
 - Continuously grow as a software engineer
 
@@ -89,9 +123,12 @@ REST APIs · JavaScript · Database Design & Integration · Software Design Patt
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-3DDC97?style=flat-square&logo=googlechrome&logoColor=black)](https://omale-grace-portfolio.onrender.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OmaleGrace)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omalegrace2009@gmail.com)
+
+[![Portfolio]\([https://img.shields.io/badge/-Portfolio-3DDC97?style=flat-square&logo=googlechrome&logoColor=black)\](https://omale-grace-portfolio.onrender.com](https://img.shields.io/badge/-Portfolio-3DDC97?style=flat-square\&logo=googlechrome\&logoColor=black\)]\(https://omale-grace-portfolio.onrender.com))
+
+[![GitHub]\([https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)\](https://github.com/OmaleGrace](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white\)]\(https://github.com/OmaleGrace))
+
+[![Email]\([https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)\](mailto\:omalegrace2009@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat-square\&logo=gmail\&logoColor=white\)]\(mailto\:omalegrace2009@gmail.com))
 
 ---
 
